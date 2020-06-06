@@ -34,5 +34,5 @@ Similarly for Top trending movies I have used followning approach.
 A small <b>VIDEO</b> demo that will demonstrate the working is :-
 
 
-<img src="![Movie-Recommendation-Webapp-Goog](https://user-images.githubusercontent.com/50323194/83939430-a62f4600-a7fa-11ea-9245-e31409f1ba3d.gif)" width="80%">
+![Movie-Recommendation-Webapp-Goog](https://user-images.githubusercontent.com/50323194/83939430-a62f4600-a7fa-11ea-9245-e31409f1ba3d.gif)
 
